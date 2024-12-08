@@ -1,7 +1,7 @@
 ## Как запустить frontend часть?
 * Перейдите в директорию frontend
 ```commandline
-cd frontend
+cd nurnickel_frontend
 ```
 * Создайте .env файл и ничего в нём не меняйте
 ```commandline
